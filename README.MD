@@ -1,0 +1,1 @@
+使用paddle实现vae，在2060上训练100个epoch。
