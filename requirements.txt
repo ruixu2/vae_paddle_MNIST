@@ -1,0 +1,5 @@
+paddlepaddle-gpu==2.4.1.post117
+torchvision
+torch
+pillow
+matplotlib
